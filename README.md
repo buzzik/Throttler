@@ -47,7 +47,7 @@ this method will clear queue for 1 position.
 
 ```
 const fetch = require('node-fetch');
-const Throttler = require('throttler'); // init throttler
+const Throttler = require('requests-throttler'); // init throttler
 
 let ms = 500; // 500 ms between requests
 let limit = 2; // 2 request can be proceeded at the same time

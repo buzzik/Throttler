@@ -1,5 +1,5 @@
 {
-  "name": "throttler",
+  "name": "requests-throttler",
   "version": "1.0.0",
   "description": "Making throttled queqe from any amount of functions (e.g. API requests)",
   "main": "index.js",
