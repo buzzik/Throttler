@@ -1,0 +1,24 @@
+{
+  "name": "throttler",
+  "version": "1.0.0",
+  "description": "Making throttled queqe from any amount of functions (e.g. API requests)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzik/Throttler.git"
+  },
+  "keywords": [
+    "queqe",
+    "requests",
+    "throttle"
+  ],
+  "author": "buzzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzik/Throttler/issues"
+  },
+  "homepage": "https://github.com/buzzik/Throttler#readme"
+}
