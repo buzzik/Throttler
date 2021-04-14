@@ -1,4 +1,4 @@
-# Throttler
+# Requests Throttler
 
 Node.js module for making throttled queue of functions/requests.
 This can be useful when you are working with an external API, where the number of requests per second is important.
@@ -6,7 +6,7 @@ This can be useful when you are working with an external API, where the number o
 ## Installing
 
 ```
-npm i throttler
+npm i requests-throttler
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ Fisrt things first.
 Init Throttler
 
 ```
-const Throttler = require('throttler');
+const Throttler = require('requests-throttler');
 ```
 
 Create new instance of Throttler and provide 2 parameters.
